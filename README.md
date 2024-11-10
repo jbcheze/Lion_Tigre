@@ -31,7 +31,7 @@ Nous avons utilisé les hyperparamètres suivants pour l'entraînement du modèl
 - **Nombre d'époques :** 10  
 - **Nombre d'images par GPU :** 1  
 - **Scales des ancres RPN :** (16, 32, 64, 128, 256)  
-- **Seuil minimal de confiance pour détection :** 60%  
+- **Seuil minimal de confiance pour détection :** 90%  
 - **Nombre de pas par époque :** 100  
 - **Nombre de validations par époque :** 5  
 
