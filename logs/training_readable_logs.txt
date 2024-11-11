@@ -16,7 +16,7 @@
 
 ==========================================
    Detailed logs can be found in the     
-          `training2.ipynb`.              
+          `testing2.ipynb`.              
 ==========================================
 
 
