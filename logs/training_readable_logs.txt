@@ -1,0 +1,22 @@
+==========================================
+          Validation Loss Summary         
+==========================================
+
+| Metric                  | Step 9 Value  |
+|-------------------------|---------------|
+| Validation Loss         | 0.7897        |
+| RPN Class Loss          | 0.0039        |
+| RPN BBox Loss           | 0.4299        |
+| MRCNN Class Loss        | 0.0167        |
+| MRCNN BBox Loss         | 0.1436        |
+| MRCNN Mask Loss         | 0.1955        |
+
+==========================================
+
+
+==========================================
+   Detailed logs can be found in the     
+          `training2.ipynb`.              
+==========================================
+
+

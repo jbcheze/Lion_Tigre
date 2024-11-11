@@ -1,8 +1,8 @@
 # Projet de Détection d'Objets avec Mask R-CNN
 
 ## Auteurs
-- **Jean-Baptiste CHEZE**
-- **Alpha DIALLO**
+- **Jean-Baptiste CHEZE -M1 MASERATI**
+- **Alpha DIALLO -M1 MASERATI**
 
 ---
 
@@ -36,6 +36,21 @@ Nous avons utilisé les hyperparamètres suivants pour l'entraînement du modèl
 - **Nombre de validations par époque :** 5  
 
 Ces hyperparamètres ont été ajustés pour équilibrer la performance du modèle et le temps d'entraînement.
+
+---
+
+## Validation Loss et Analyse des Pertes
+
+Lors de l'entraînement, les pertes sur le jeu de validation ont été enregistrées à chaque étape. Voici un résumé des pertes pour la dernière étape (Step 9) :
+
+- **Validation Loss (val_loss)** : 0.7897
+- **RPN Class Loss (val_rpn_class_loss)** : 0.0039
+- **RPN BBox Loss (val_rpn_bbox_loss)** : 0.4299
+- **MRCNN Class Loss (val_mrcnn_class_loss)** : 0.0167
+- **MRCNN BBox Loss (val_mrcnn_bbox_loss)** : 0.1436
+- **MRCNN Mask Loss (val_mrcnn_mask_loss)** : 0.1955
+
+Vous pouvez observer les même valeurs dans le fichier texte joint au dossier `logs`.
 
 ---
 
