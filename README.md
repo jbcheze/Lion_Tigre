@@ -50,7 +50,7 @@ Lors de l'entraînement, les pertes sur le jeu de validation ont été enregistr
 - **MRCNN BBox Loss (val_mrcnn_bbox_loss)** : 0.1436
 - **MRCNN Mask Loss (val_mrcnn_mask_loss)** : 0.1955
 
-Vous pouvez observer les même valeurs dans le fichier texte joint au dossier `logs`.
+Vous pouvez observer les mêmes valeurs dans le fichier texte joint au dossier `logs`.
 
 ---
 
