@@ -54,6 +54,13 @@ Vous pouvez observer les mêmes valeurs dans le fichier texte joint au dossier `
 
 ---
 
+**image pour le train qu'on a reussi à recuperer :**
+
+![Image de notre terminal pour le train](image/train.jpg)
+
+
+
+
 ## Difficultés Rencontrées
 Nous, **Jean-Baptiste CHEZE** et **Alpha DIALLO**, avons rencontré plusieurs défis tout au long de ce projet :
 

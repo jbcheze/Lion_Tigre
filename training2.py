@@ -115,7 +115,7 @@ def train_and_save_logs(model):
         f.write("Training Log - Readable Format\n")
         f.write("=" * 50 + "\n")
 
-        for epoch in range(10):  # Changez 10 par le nombre d'époques souhaité
+        for epoch in range(2):  # Changez 10 par le nombre d'époques souhaité
             print(f"Epoch {epoch + 1}/10")
 
             model.train(
